@@ -1,0 +1,7 @@
+This app is a Firebase Auth integration with email and password in ionic 3 framework
+
+1>First you need to have node installed in your project
+2>Aftre that install ng cli throgh your terminal by npm install @angular/cli@latest -g
+3>then run npm install -g cordova ionic
+4>go to the respective location of yout project and execute ionic serve
+5>It will be displayed at localhost8100
